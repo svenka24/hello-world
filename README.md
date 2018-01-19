@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Fellow Humans!!,
+
+Shark here, I like Cars, sports and generally having a good time
